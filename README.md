@@ -170,4 +170,4 @@
 # Contributing
 Your contributions are always welcome! Please take a look at the contribution guidelines first.
 
-If you have any question about this opinionated list, do not hesitate to contact me @_mvalle_ on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me @\_mvalle\_ on Twitter or open an issue on GitHub.
