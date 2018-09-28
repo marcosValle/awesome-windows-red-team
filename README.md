@@ -63,6 +63,7 @@
 
 ### Kerberos
 
+* [Protecting Privileged Domain Accounts: Network Authentication In-Depth](https://digital-forensics.sans.org/blog/2012/09/18/protecting-privileged-domain-accounts-network-authentication-in-depth)
 * [MicroNugget: How Does Kerberos Work?](https://www.youtube.com/watch?v=kp5d8Yv3-0c) 
 * [MIT 6.858 Fall 2014 Lecture 13: Kerberos](https://www.youtube.com/watch?v=bcWxLl8x33c)
 * [DerbyCon4 - Et tu Kerberos](https://www.youtube.com/watch?v=RIRQQCM4wz8&t=0s&list=PLz8yKJBzAxrslURpq0TcmLl7JS-sRNmog&index=14)
