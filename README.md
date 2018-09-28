@@ -64,12 +64,15 @@
 ### Kerberos
 
 * [Protecting Privileged Domain Accounts: Network Authentication In-Depth](https://digital-forensics.sans.org/blog/2012/09/18/protecting-privileged-domain-accounts-network-authentication-in-depth)
+* [Basic attacks on communication protocols – replay and reflection attacks](https://steemit.com/education/@edwardthomson/basic-attacks-on-communication-protocols-replay-and-reflection-attacks)
 * [MicroNugget: How Does Kerberos Work?](https://www.youtube.com/watch?v=kp5d8Yv3-0c) 
 * [MIT 6.858 Fall 2014 Lecture 13: Kerberos](https://www.youtube.com/watch?v=bcWxLl8x33c)
 * [DerbyCon4 - Et tu Kerberos](https://www.youtube.com/watch?v=RIRQQCM4wz8&t=0s&list=PLz8yKJBzAxrslURpq0TcmLl7JS-sRNmog&index=14)
 * [DerbyCon7 - Return From The Underworld The Future Of Red Team Kerberos](https://www.youtube.com/watch?v=E_BNhuGmJwM&t=0s&index=2&list=PLNhlcxQZJSm-PKUZTYe1C94ymf0omysM3)
 * [BH2014 - Abusing Microsoft Kerberos: Sorry You Guys Don't Get It](https://www.youtube.com/watch?v=lJQn06QLwEw)
 * [DerbyCon4 - Attacking Microsoft Kerberos Kicking the Guard Dog of Hades](https://www.youtube.com/watch?v=PUyhlN-E5MU&t=0s&list=PLz8yKJBzAxrslURpq0TcmLl7JS-sRNmog&index=57)
+* [Kerberos in the Crosshairs: Golden Tickets, Silver Tickets, MITM, and More](https://digital-forensics.sans.org/blog/2014/11/24/kerberos-in-the-crosshairs-golden-tickets-silver-tickets-mitm-more)
+* [How Attackers Use Kerberos Silver Tickets to Exploit Systems](https://adsecurity.org/?p=2011)
 
 ### Lsass SAM NTLM GPO
 
