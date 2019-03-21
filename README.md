@@ -63,6 +63,7 @@
 
 ### Kerberos
 
+* [Kerberos (I): How does Kerberos work? – Theory](https://www.tarlogic.com/en/blog/how-kerberos-works/?amp&__twitter_impression=true)
 * [Protecting Privileged Domain Accounts: Network Authentication In-Depth](https://digital-forensics.sans.org/blog/2012/09/18/protecting-privileged-domain-accounts-network-authentication-in-depth)
 * [Basic attacks on communication protocols – replay and reflection attacks](https://steemit.com/education/@edwardthomson/basic-attacks-on-communication-protocols-replay-and-reflection-attacks)
 * [MicroNugget: How Does Kerberos Work?](https://www.youtube.com/watch?v=kp5d8Yv3-0c) 
@@ -116,6 +117,7 @@
 * [DerbyCon7 - T110 Modern Evasion Techniques](https://www.youtube.com/watch?v=xcA2riLyHtQ)
 * [DerbyCon7 - Evading Autoruns](https://www.youtube.com/watch?v=AEmuhCwFL5I)
 * [Red Team Techniques for Evading, Bypassing & Disabling MS](https://www.youtube.com/watch?v=2HNuzUuVyv0)
+* [How to Bypass Anti-Virus to Run Mimikatz](https://www.blackhillsinfosec.com/bypass-anti-virus-run-mimikatz/)
 
 ## Exfiltration
 
