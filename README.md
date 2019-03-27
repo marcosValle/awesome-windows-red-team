@@ -16,6 +16,8 @@
   * [Pass the Ticket](#pass-the-ticket)
 * [Privilege Escalation](#privilege-escalation)
   * [UAC bypass](#uac-bypass)
+  * [Token Impersonation](#token-impersonation)
+
 * [Defense Evasion](#defense-evasion)
 * [Exfiltration](#exfiltration)
 * [PowerShell](#powershell)
@@ -110,6 +112,11 @@
 * [DEF CON 22 - Kallenberg and Kovah - Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.youtube.com/watch?v=d6VCri6sPnY)
 * [DEF CON 25 - Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level](https://www.youtube.com/watch?v=Gu_5kkErQ6Y)
 * [DerbyCon7 - Not a Security Boundary Bypassing User Account Control](https://www.youtube.com/watch?v=c8LgqtATAnE&t=0s&index=21&list=PLNhlcxQZJSm-PKUZTYe1C94ymf0omysM3)
+
+### Token Impersonation
+[Fun with Incógnito](HTTPS://offensive-security.com/metasploit-unleashed/fun-incognito/)
+
+[Rotten Potato](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 
 ## Defense Evasion
 
