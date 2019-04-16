@@ -120,9 +120,9 @@
 * [DerbyCon7 - Not a Security Boundary Bypassing User Account Control](https://www.youtube.com/watch?v=c8LgqtATAnE&t=0s&index=21&list=PLNhlcxQZJSm-PKUZTYe1C94ymf0omysM3)
 
 ### Token Impersonation
-[Fun with Incógnito](HTTPS://offensive-security.com/metasploit-unleashed/fun-incognito/)
 
-[Rotten Potato](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
+* [Fun with Incógnito](HTTPS://offensive-security.com/metasploit-unleashed/fun-incognito/)
+* [Rotten Potato](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 
 ## Defense Evasion
 
