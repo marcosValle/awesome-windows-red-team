@@ -14,11 +14,13 @@
 * [Lateral Movement](#lateral-movement)
   * [Pass the Hash](#pass-the-hash)
   * [Pass the Ticket](#pass-the-ticket)
+  * [LLMNR/NBT-NS poisoning](#llmnr-nbtns-poisoning)
 * [Privilege Escalation](#privilege-escalation)
   * [UAC bypass](#uac-bypass)
   * [Token Impersonation](#token-impersonation)
-
 * [Defense Evasion](#defense-evasion)
+  * [AV evasion](#av)
+  * [AMSI](#amsi)
 * [Exfiltration](#exfiltration)
 * [PowerShell](#powershell)
 * [Phishing](#phishing)
@@ -104,6 +106,10 @@
 
 * [ATT&CK - Pass the Ticket](https://attack.mitre.org/wiki/Technique/T1097)
 
+### LLMNR/NBT-NS poisoning
+
+* [An SMB Relay Race – How To Exploit LLMNR and SMB Message Signing for Fun and Profit](https://www.blackhillsinfosec.com/an-smb-relay-race-how-to-exploit-llmnr-and-smb-message-signing-for-fun-and-profit/)
+
 ## Privilege Escalation
 
 * [Level Up! Practical Windows Privilege Escalation - Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
@@ -120,11 +126,30 @@
 
 ## Defense Evasion
 
+### AV
+
 * [DerbyCon3 - Antivirus Evasion Lessons Learned](https://www.youtube.com/watch?v=ycgaekqAkpA)
 * [DerbyCon7 - T110 Modern Evasion Techniques](https://www.youtube.com/watch?v=xcA2riLyHtQ)
 * [DerbyCon7 - Evading Autoruns](https://www.youtube.com/watch?v=AEmuhCwFL5I)
 * [Red Team Techniques for Evading, Bypassing & Disabling MS](https://www.youtube.com/watch?v=2HNuzUuVyv0)
 * [How to Bypass Anti-Virus to Run Mimikatz](https://www.blackhillsinfosec.com/bypass-anti-virus-run-mimikatz/)
+* [AV Evasion - Obfuscating Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
+* [Getting PowerShell Empire Past Windows Defender](https://www.blackhillsinfosec.com/getting-powershell-empire-past-windows-defender/)
+
+### AMSI
+* [Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’ ](https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/)
+* [Antimalware Scan Interface (AMSI) — A Red Team Analysis on Evasion] (https://iwantmore.pizza/posts/amsi.html)
+
+### LAPS
+
+* [Local Administrator Password Solution](https://docs.microsoft.com/en-us/previous-versions/mt227395(v=msdn.10))
+* [Malicious use of Microsoft LAPS](https://akijosberryblog.wordpress.com/2019/01/01/malicious-use-of-microsoft-laps/)
+
+### AppLocker & Application Whitelisting
+
+* [What Is AppLocker?](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/what-is-applocker)
+* [How to Evade Application Whitelisting Using REGSVR32](https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/)
+* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
 ## Exfiltration
 
@@ -165,7 +190,6 @@
 ## Tools
  
 * [Mimikatz](https://github.com/gentilkiwi/mimikatz)
-* [Cobalt Strike](https://www.cobaltstrike.com/)
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * [Empire](https://github.com/EmpireProject/Empire)
 * [Nishang](https://github.com/samratashok/nishang)
@@ -173,12 +197,20 @@
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
 * [PSExec](https://www.toshellandback.com/2017/02/11/psexec/)
 
-# Other Awesome Lists
+### Adversary Emulation
+* [Cobalt Strike](https://www.cobaltstrike.com/)
+* [Red Team Automation - RTA](https://github.com/endgameinc/RTA)
+* [CALDERA](https://github.com/mitre/caldera)
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+* [Metta](https://github.com/uber-common/metta)
+
+# Other Awesome Lists & sources
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
+* [Red Teaming Experiments](https://ired.team/)
 
 # Contributing
 Your contributions are always welcome! Please take a look at the contribution guidelines first.
