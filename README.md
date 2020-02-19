@@ -36,6 +36,7 @@
 * [Windows Internals, Sixth Edition, Part 1](https://www.amazon.com.br/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPHIG?tag=goog0ef-20&smid=A18CNA8NWQSYHH)
 * [Windows Internals, Sixth Edition, Part 2](https://www.amazon.com/Windows-Internals-Part-Developer-Reference/dp/0735665877)
 * [How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQQ)
+* [Windows® via C/C++ (Developer Reference) (English Edition)](https://www.amazon.com.br/Windows%C2%AE-via-Developer-Reference-English-ebook/dp/B00JDMQK9G/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Windows%C2%AE+via+C%2FC%2B%2B+%28Developer+Reference%29+%28English+Edition%29&qid=1582123720&s=digital-text&sr=1-1)
 * [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
 
 ## Courses
